@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I-ShivamKumar
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning DSA and Web Development
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me @i.shivamkumar (IG)
 
